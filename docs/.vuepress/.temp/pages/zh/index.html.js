@@ -1,5 +1,5 @@
 import comp from "/Users/jaydenpu/Documents/Code/My-Website/docs/.vuepress/.temp/pages/zh/index.html.vue"
-const data = JSON.parse("{\"path\":\"/zh/\",\"title\":\"\",\"lang\":\"zh-CN\",\"frontmatter\":{\"config\":[{\"type\":\"profile\",\"name\":\"濮弘文 Hongwen Pu\",\"description\":\"🇨🇳 浙江绍兴人，现居英国伦敦\\n大一学生，现就读于UCL的数学计算（计算机科学与数学）专业\\n电子邮件：hongwen.pu.25@ucl.ac.uk\\n\",\"avatar\":\"images/profile.jpg\"},{\"type\":\"custom\"}],\"pageLayout\":\"home\"},\"readingTime\":{\"minutes\":4.81,\"words\":1443},\"git\":{},\"filePathRelative\":\"zh/README.md\",\"headers\":[]}")
+const data = JSON.parse("{\"path\":\"/zh/\",\"title\":\"\",\"lang\":\"zh-CN\",\"frontmatter\":{\"config\":[{\"type\":\"profile\",\"name\":\"濮弘文 Hongwen Pu\",\"description\":\"🇨🇳 浙江绍兴人，现居英国伦敦\\n大一学生，现就读于UCL的数学计算（计算机科学与数学）专业\\n电子邮件：hongwen.pu.25@ucl.ac.uk\\n\",\"avatar\":\"https://upload.cc/i1/2025/12/01/Y6azwR.jpg\"},{\"type\":\"custom\"}],\"pageLayout\":\"home\"},\"readingTime\":{\"minutes\":4.81,\"words\":1444},\"git\":{},\"filePathRelative\":\"zh/README.md\",\"headers\":[]}")
 export { comp, data }
 
 if (import.meta.webpackHot) {

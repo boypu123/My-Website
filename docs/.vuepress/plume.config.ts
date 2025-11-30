@@ -18,7 +18,7 @@ import { enNavbar, zhNavbar } from './navbar'
  * @see https://theme-plume.vuejs.press/config/basic/
  */
 export default defineThemeConfig({
-  logo: '../images/profile.jpg',
+  logo: 'https://upload.cc/i1/2025/12/01/Y6azwR.jpg',
 
   appearance: true,  // 配置 深色模式
 
@@ -75,7 +75,7 @@ export default defineThemeConfig({
        * @see https://theme-plume.vuejs.press/config/basic/#profile
        */
       profile: {
-        avatar: '../images/profile.jpg',
+        avatar: 'https://upload.cc/i1/2025/12/01/Y6azwR.jpg',
         name: 'Hongwen Pu\'s Website',
         description: 'Hongwen Pu\'s Website',
         // circle: true,
@@ -102,7 +102,7 @@ export default defineThemeConfig({
        * @see https://theme-plume.vuejs.press/config/basic/#profile
        */
       profile: {
-        avatar: '../images/profile.jpg',
+        avatar: 'https://upload.cc/i1/2025/12/01/Y6azwR.jpg',
         name: 'Hongwen Pu\'s Website',
         description: 'Hongwen Pu\'s Website',
         // circle: true,

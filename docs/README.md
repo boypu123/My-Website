@@ -8,7 +8,7 @@ config:
       🇨🇳 From Shaoxing, Zhejiang, China. Currently based in London, United Kingdom.
       Year 1 Student, Mathematical Computation (Computer Science and Mathematics) @ University College London.
       Email: hongwen.pu.25@ucl.ac.uk
-    avatar: images/profile.jpg
+    avatar: https://upload.cc/i1/2025/12/01/Y6azwR.jpg
 
   - 
     type: custom
