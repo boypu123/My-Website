@@ -18,20 +18,20 @@ export default defineUserConfig({
   lang: 'en-US',
   locales: {
     '/': {
-      title: 'My Website',
+      title: 'Hongwen\'s Website',
       lang: 'en-US',
-      description: 'My Website',
+      description: 'Hongwen\'s Website',
     },
     '/zh/': {
-      title: 'My Website',
+      title: 'Hongwen\'s Website',
       lang: 'zh-CN',
-      description: 'My Website',
+      description: 'Hongwen\'s Website',
     },
   },
 
   head: [
     // 配置站点图标
-    ['link', { rel: 'icon', type: 'image/png', href: 'https://theme-plume.vuejs.press/favicon-32x32.png' }],
+    ['link', { rel: 'icon', type: 'image/png', href: '../images/profile.jpg' }],
   ],
 
   bundler: viteBundler(),

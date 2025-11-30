@@ -18,7 +18,7 @@ import { enNavbar, zhNavbar } from './navbar'
  * @see https://theme-plume.vuejs.press/config/basic/
  */
 export default defineThemeConfig({
-  logo: 'https://theme-plume.vuejs.press/plume.png',
+  logo: '../images/profile.jpg',
 
   appearance: true,  // 配置 深色模式
 
@@ -59,7 +59,7 @@ export default defineThemeConfig({
   /* 站点页脚 */
   footer: {
     message: '🎵“正在被大家打扰的你，不如一起活在爱里面”——上海彩虹合唱团🎵',
-    copyright: '',
+    copyright: '本网站基于VuePress和VuePress Theme Plume构建。版权所有 &copy; 2025 Hongwen Pu',
   },
 
   /* 过渡动画 @see https://theme-plume.vuejs.press/config/basic/#transition */
