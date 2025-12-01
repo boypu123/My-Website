@@ -19,7 +19,7 @@ config:
 I am currently a first-year undergraduate at UCL in the MEng Mathematical Computation (new name as Computer Science and Mathematics) programme. My major interests lie in the field of mathematical foundations of computing, machine learning and educational system design. I enjoy solving problems and turning ideas into both proofs and codes. In my free time, I also like to study languages, explore societal topics and read books.
 
 ## Research Interests
-Mathematical foundations of machine learning, AI model verification, safety & policy, Game-theoretic modelling of learning system and educational fairness
+Mathematical foundations of machine learning, AI model verification, safety & policy, Algorithm ethics, Game-theoretic modelling of learning system and educational fairness
 
 ## Publications
  - Pu, H. & Yi, K. (2024). “A Comparative Analysis of EfficientNet and MobileNet Models’ Performance on Limited Datasets: An Example of American Sign Language Alphabet Detection.” Highlights in Science, Engineering and Technology, 94, 558–564. DOI: 10.54097/yh5d3s04
@@ -62,3 +62,8 @@ Mathematical foundations of machine learning, AI model verification, safety & po
    - FutureUP is a project aiming at Chinese Senior School & University students to help them develop their global vision, critical thinking skills, research skills and interdisciplinary capabilities to prepare them for becoming a talent in the future world amid China's transition from talent quantity to talent strength. I am the founder of this project. I am in charge of designing the course's overall architecture, and is focusing on developing the "General Knowledge" module in the curriculum. 
  - Dulwich College (Singapore) - HiMCM Coordinator and Mathematical Modelling Teaching Lead - 2024
    - In this course, I am in charge of coordinating the participation of HiMCM (The High School Mathematical Contests for Modelling) in DCSG. I have taught several techniques required for HiMCM such as AHP and TOPSIS, trying to stimulate their interest in Mathematical Modelling and Applied Mathematics, incorporating the teaching in understanding the underlying principles of how those models work, instead of simply teaching the models and let the students memorise.
+
+
+## This coming summer (2026), my main focus will be on:
+ - Modelling emotional dynamics of social media platforms, analysing the ethical impact of social algorithms and risk analysis (Using SIR)
+ - The formal registration and start of FutureUP
