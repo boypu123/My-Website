@@ -35,3 +35,5 @@ jobs:
           key: ${{ secrets.SERVER_SSH_KEY }}
           source: "docs/.vuepress/dist/*"
           target: "/var/www/my-vuepress-site/dist"
+          strip_components: 4
+
