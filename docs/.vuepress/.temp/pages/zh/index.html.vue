@@ -8,7 +8,7 @@
 <li>Pu, H. &amp; Yi, K. (2024). 《A Comparative Analysis of EfficientNet and MobileNet Models’ Performance on Limited Datasets: An Example of American Sign Language Alphabet Detection》. Highlights in Science, Engineering and Technology, 94, 558–564. DOI: 10.54097/yh5d3s04
 <ul>
 <li><strong>研究内容：</strong> 本研究比较了两个主流的轻量CNN模型EfficientNet和MobileNet在有限数据约束下的表现。实验基于从Kaggle下载并整合的多个数据集，在 5、10 与 20 个训练轮次（epochs）下分别对模型进行训练与测试。结果表明：在 5 个 epochs 条件下，MobileNet V2 在测试准确率方面优于其他模型；而在训练达到 10 个 epochs 及以后，各模型均出现明显的过拟合现象。</li>
-<li><strong>学术影响（截至 2025 年 11 月 30 日）：</strong> 该论文已获得 <strong>Google Scholar 收录引用 7 次</strong>，并在发表后一年内取得 <strong>出版商官网累计下载量 496 次</strong>。</li>
+<li><strong>学术影响（截至 2025 年 11 月 30 日）：</strong> 该论文已获得 <strong>Google Scholar 收录引用 8 次</strong>，并在发表后一年内取得 <strong>出版商官网累计下载量 496 次</strong>。</li>
 </ul>
 </li>
 </ul>
@@ -69,7 +69,7 @@
 <ul>
 <li>UCLCSSA（伦敦大学学院 学生与学者联谊会）—— 中文教育部，高级班教师，2025 - 至今
 <ul>
-<li>这门课主要教授关于中文语言习得的高阶内容。在我带的课中，我首先以一些高级中文句法以及词汇作为开始，鼓励学生用中文阅读更长的、更加贴近现实生活的文章，同时融入一些互动，鼓励他们了解中国以及中国的文化。接下来，以《台北人》这本小说为关注的主体，我带领学生们学习了中文语言文学的基本元素。学生主要探索了中文文学作品的阅读以及分析方法，并且学到了和历史背景联系起来的关于中国文化的更多知识，包括海峡两岸血浓于水的联系。</li>
+<li>这门课主要教授关于中文语言习得的高阶内容。在我带的课中，我首先以一些高级中文句法以及词汇作为开始，鼓励学生用中文阅读更长的、更加贴近现实生活的文章，同时融入一些互动，鼓励他们了解中国以及中国的文化。接下来，以《台北人》这本小说为关注的主体，我带领学生们学习了中文语言文学的基本元素。学生主要探索了中文文学作品的阅读以及分析方法，并且学到了和历史背景联系起来的关于中国文化的更多知识，包括海峡两岸同根同源的联系。</li>
 </ul>
 </li>
 <li>FutureUP (&quot;笃行未来&quot;) - Founder &amp; Curriculum Designer - 2025 - Now</li>

@@ -8,7 +8,7 @@
 <li>Pu, H. &amp; Yi, K. (2024). “A Comparative Analysis of EfficientNet and MobileNet Models’ Performance on Limited Datasets: An Example of American Sign Language Alphabet Detection.” Highlights in Science, Engineering and Technology, 94, 558–564. DOI: 10.54097/yh5d3s04
 <ul>
 <li>Research Content: This paper compares the performance of two major light CNN architectures, EfficientNet and MobileNet, under the constraint of limited datasets. This experiment has used several datasets downloaded and merged from Kaggle, and has trained the models under 5, 10 and 20 epochs. The result has shown that MobileNet V2 outperforms other all other models in testing accuracy under 5 epochs, but all other models suffer from severe overfitting problem after 10 epochs.</li>
-<li>Research Impact (as of Nov 30th, 2025): 7 citations recorded on Google Scholar, 496 publisher-page downloads within the first year of publication.</li>
+<li>Research Impact (as of Nov 30th, 2025): 8 citations recorded on Google Scholar, 496 publisher-page downloads within the first year of publication.</li>
 </ul>
 </li>
 </ul>
@@ -66,7 +66,7 @@
 <ul>
 <li>UCLCSSA (UCL Chinese Students and Scholar Association), Department of Chinese Education, Higher Level (高级班) Teacher @ UCL, 2025 - Now
 <ul>
-<li>In this course, I teach some advanced topics about Chinese Language Acquisition. In the lessons I am in charge of, I started off with some higher-level Chinese grammar and vocabulary, encouraging them to read longer, real-life passages in Chinese, along with some interactive activities encouraging them to learn about China and the Chinese culture. Then, we moved to Chinese Language and Literature, with the focus being on the book &quot;Taipei People&quot; (《台北人》). We explored reading and analysing Chinese literature texts and more about Chinese culture in its historical background, including the cross-strait rooted in shared blood and heritage.</li>
+<li>In this course, I teach some advanced topics about Chinese Language Acquisition. In the lessons I am in charge of, I started off with some higher-level Chinese grammar and vocabulary, encouraging them to read longer, real-life passages in Chinese, along with some interactive activities encouraging them to learn about China and the Chinese culture. Then, we moved to Chinese Language and Literature, with the focus being on the book &quot;Taipei People&quot; (《台北人》). We explored reading and analysing Chinese literature texts and more about Chinese culture in its historical background, including the shared roots and cultural ties across the Taiwan Strait.</li>
 </ul>
 </li>
 <li>FutureUP (&quot;笃行未来&quot;) - Founder &amp; Curriculum Designer - 2025 - Now
