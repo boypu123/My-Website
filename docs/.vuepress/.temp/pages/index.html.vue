@@ -69,9 +69,9 @@
 <li>In this course, I teach some advanced topics about Chinese Language Acquisition. In the lessons I am in charge of, I started off with some higher-level Chinese grammar and vocabulary, encouraging them to read longer, real-life passages in Chinese, along with some interactive activities encouraging them to learn about China and the Chinese culture. Then, we moved to Chinese Language and Literature, with the focus being on the book &quot;Taipei People&quot; (《台北人》). We explored reading and analysing Chinese literature texts and more about Chinese culture in its historical background, including the shared roots and cultural ties across the Taiwan Strait.</li>
 </ul>
 </li>
-<li>FutureUP (&quot;笃行未来&quot;) - Founder &amp; Curriculum Designer - 2025 - Now
+<li>DX Future (&quot;笃行未来&quot;) - Founder &amp; Curriculum Designer - 2025 - Now
 <ul>
-<li>FutureUP is a project aiming at Chinese Senior School &amp; University students to help them develop their global vision, critical thinking skills, research skills and interdisciplinary capabilities to prepare them for becoming a talent in the future world amid China's transition from talent quantity to talent strength. I am the founder of this project. I am in charge of designing the course's overall architecture, and is focusing on developing the &quot;General Knowledge&quot; module in the curriculum.</li>
+<li>DX Future is a project aiming at Chinese Senior School &amp; University students to help them develop their global vision, critical thinking skills, research skills and interdisciplinary capabilities to prepare them for becoming a talent in the future world amid China's transition from talent quantity to talent strength. I am the founder of this project. I am in charge of designing the course's overall architecture, and is focusing on developing the &quot;General Knowledge&quot; module in the curriculum.</li>
 </ul>
 </li>
 <li>Dulwich College (Singapore) - HiMCM Coordinator and Mathematical Modelling Teaching Lead - 2024
@@ -83,7 +83,7 @@
 <h2 id="this-coming-summer-2026-my-main-focus-will-be-on" tabindex="-1"><a class="header-anchor" href="#this-coming-summer-2026-my-main-focus-will-be-on"><span>This coming summer (2026), my main focus will be on:</span></a></h2>
 <ul>
 <li>Modelling emotional dynamics of social media platforms, analysing the ethical impact of social algorithms and risk analysis (Using SIR)</li>
-<li>The formal registration and start of FutureUP</li>
+<li>The formal registration and start of DX Future</li>
 </ul>
 </div></template>
 

@@ -58,12 +58,12 @@ Mathematical foundations of machine learning, AI model verification, safety & po
 ## Roles, Teachings and Outreach
  - UCLCSSA (UCL Chinese Students and Scholar Association), Department of Chinese Education, Higher Level (高级班) Teacher @ UCL, 2025 - Now
    - In this course, I teach some advanced topics about Chinese Language Acquisition. In the lessons I am in charge of, I started off with some higher-level Chinese grammar and vocabulary, encouraging them to read longer, real-life passages in Chinese, along with some interactive activities encouraging them to learn about China and the Chinese culture. Then, we moved to Chinese Language and Literature, with the focus being on the book "Taipei People" (《台北人》). We explored reading and analysing Chinese literature texts and more about Chinese culture in its historical background, including the shared roots and cultural ties across the Taiwan Strait.
- - FutureUP ("笃行未来") - Founder & Curriculum Designer - 2025 - Now
-   - FutureUP is a project aiming at Chinese Senior School & University students to help them develop their global vision, critical thinking skills, research skills and interdisciplinary capabilities to prepare them for becoming a talent in the future world amid China's transition from talent quantity to talent strength. I am the founder of this project. I am in charge of designing the course's overall architecture, and is focusing on developing the "General Knowledge" module in the curriculum. 
+ - DX Future ("笃行未来") - Founder & Curriculum Designer - 2025 - Now
+   - DX Future is a project aiming at Chinese Senior School & University students to help them develop their global vision, critical thinking skills, research skills and interdisciplinary capabilities to prepare them for becoming a talent in the future world amid China's transition from talent quantity to talent strength. I am the founder of this project. I am in charge of designing the course's overall architecture, and is focusing on developing the "General Knowledge" module in the curriculum. 
  - Dulwich College (Singapore) - HiMCM Coordinator and Mathematical Modelling Teaching Lead - 2024
    - In this course, I am in charge of coordinating the participation of HiMCM (The High School Mathematical Contests for Modelling) in DCSG. I have taught several techniques required for HiMCM such as AHP and TOPSIS, trying to stimulate their interest in Mathematical Modelling and Applied Mathematics, incorporating the teaching in understanding the underlying principles of how those models work, instead of simply teaching the models and let the students memorise.
 
 
 ## This coming summer (2026), my main focus will be on:
  - Modelling emotional dynamics of social media platforms, analysing the ethical impact of social algorithms and risk analysis (Using SIR)
- - The formal registration and start of FutureUP
+ - The formal registration and start of DX Future
