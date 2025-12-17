@@ -1,6 +1,7 @@
 <template><div><hr>
 <h2 id="about-me" tabindex="-1"><a class="header-anchor" href="#about-me"><span>About Me</span></a></h2>
-<p>I am currently a first-year undergraduate at UCL in the MEng Mathematical Computation (new name as Computer Science and Mathematics) programme. My major interests lie in the field of mathematical foundations of computing, machine learning and educational system design. I enjoy solving problems and turning ideas into both proofs and codes. In my free time, I also like to study languages, explore societal topics and read books.</p>
+<p>I am currently a first-year undergraduate at UCL in the MEng Mathematical Computation (new name as Computer Science and Mathematics) programme. My major interests lie in the field of mathematical foundations of computing, machine learning and educational system design. I enjoy solving problems and turning ideas into both proofs and codes. In my free time, I also like to study languages, explore societal topics and read books.<br>
+<a href="./files/Hongwen_Pu_CV_English.pdf" target="_blank">Download My CV</a> | <a href="./files/Hongwen_Pu_CV_Chinese.pdf" target="_blank">Download My CV (Chinese)</a></p>
 <h2 id="research-interests" tabindex="-1"><a class="header-anchor" href="#research-interests"><span>Research Interests</span></a></h2>
 <p>Mathematical foundations of machine learning, AI model verification, safety &amp; policy, Algorithm ethics, Game-theoretic modelling of learning system and educational fairness</p>
 <h2 id="publications" tabindex="-1"><a class="header-anchor" href="#publications"><span>Publications</span></a></h2>

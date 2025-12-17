@@ -1,6 +1,7 @@
 <template><div><hr>
 <h2 id="关于本人" tabindex="-1"><a class="header-anchor" href="#关于本人"><span>关于本人</span></a></h2>
-<p>本人目前在UCL的数学计算（新名为“计算机科学与数学”）专业读大一。我的主要兴趣有计算机中的数学原理、机器学习、教育系统设计等。我喜欢解决实际问题，并将想法应用到证明和编程中。在我的空闲时间，我也喜欢学习语言，探索社会话题，阅读书籍。</p>
+<p>本人目前在UCL的数学计算（新名为“计算机科学与数学”）专业读大一。我的主要兴趣有计算机中的数学原理、机器学习、教育系统设计等。我喜欢解决实际问题，并将想法应用到证明和编程中。在我的空闲时间，我也喜欢学习语言，探索社会话题，阅读书籍。<br>
+<a href="../files/Hongwen_Pu_CV_Chinese.pdf" target="_blank">简历</a> | <a href="../files/Hongwen_Pu_CV_English.pdf" target="_blank">简历（英文）</a></p>
 <h2 id="研究领域" tabindex="-1"><a class="header-anchor" href="#研究领域"><span>研究领域</span></a></h2>
 <p>机器学习中的数学基础，AI模型验证，AI安全与政策，算法与伦理，教育系统设计中的公平性问题以及博弈论建模</p>
 <h2 id="出版" tabindex="-1"><a class="header-anchor" href="#出版"><span>出版</span></a></h2>

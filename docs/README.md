@@ -8,6 +8,7 @@ config:
       🇨🇳 From Shaoxing, Zhejiang, China. Currently based in London, United Kingdom.
       Year 1 Student, Mathematical Computation (Computer Science and Mathematics) @ University College London.
       Email: hongwen.pu.25@ucl.ac.uk
+
     avatar: ./images/selfie.jpg
 
   - 
@@ -16,7 +17,8 @@ config:
 
 ---
 ## About Me
-I am currently a first-year undergraduate at UCL in the MEng Mathematical Computation (new name as Computer Science and Mathematics) programme. My major interests lie in the field of mathematical foundations of computing, machine learning and educational system design. I enjoy solving problems and turning ideas into both proofs and codes. In my free time, I also like to study languages, explore societal topics and read books.
+I am currently a first-year undergraduate at UCL in the MEng Mathematical Computation (new name as Computer Science and Mathematics) programme. My major interests lie in the field of mathematical foundations of computing, machine learning and educational system design. I enjoy solving problems and turning ideas into both proofs and codes. In my free time, I also like to study languages, explore societal topics and read books.  
+<a href="./files/Hongwen_Pu_CV_English.pdf" target="_blank">Download My CV</a> | <a href="./files/Hongwen_Pu_CV_Chinese.pdf" target="_blank">Download My CV (Chinese)</a> 
 
 ## Research Interests
 Mathematical foundations of machine learning, AI model verification, safety & policy, Algorithm ethics, Game-theoretic modelling of learning system and educational fairness
