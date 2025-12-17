@@ -2,7 +2,7 @@
 <h2 id="about-me" tabindex="-1"><a class="header-anchor" href="#about-me"><span>About Me</span></a></h2>
 <p>I am currently a first-year undergraduate at UCL in the MEng Mathematical Computation (new name as Computer Science and Mathematics) programme. My major interests lie in the field of mathematical foundations of computing, machine learning and educational system design. I enjoy solving problems and turning ideas into both proofs and codes. In my free time, I also like to study languages, explore societal topics and read books.</p>
 <h2 id="research-interests" tabindex="-1"><a class="header-anchor" href="#research-interests"><span>Research Interests</span></a></h2>
-<p>Mathematical foundations of machine learning, AI model verification, safety &amp; policy, Game-theoretic modelling of learning system and educational fairness</p>
+<p>Mathematical foundations of machine learning, AI model verification, safety &amp; policy, Algorithm ethics, Game-theoretic modelling of learning system and educational fairness</p>
 <h2 id="publications" tabindex="-1"><a class="header-anchor" href="#publications"><span>Publications</span></a></h2>
 <ul>
 <li>Pu, H. &amp; Yi, K. (2024). “A Comparative Analysis of EfficientNet and MobileNet Models’ Performance on Limited Datasets: An Example of American Sign Language Alphabet Detection.” Highlights in Science, Engineering and Technology, 94, 558–564. DOI: 10.54097/yh5d3s04
@@ -79,6 +79,11 @@
 <li>In this course, I am in charge of coordinating the participation of HiMCM (The High School Mathematical Contests for Modelling) in DCSG. I have taught several techniques required for HiMCM such as AHP and TOPSIS, trying to stimulate their interest in Mathematical Modelling and Applied Mathematics, incorporating the teaching in understanding the underlying principles of how those models work, instead of simply teaching the models and let the students memorise.</li>
 </ul>
 </li>
+</ul>
+<h2 id="this-coming-summer-2026-my-main-focus-will-be-on" tabindex="-1"><a class="header-anchor" href="#this-coming-summer-2026-my-main-focus-will-be-on"><span>This coming summer (2026), my main focus will be on:</span></a></h2>
+<ul>
+<li>Modelling emotional dynamics of social media platforms, analysing the ethical impact of social algorithms and risk analysis (Using SIR)</li>
+<li>The formal registration and start of FutureUP</li>
 </ul>
 </div></template>
 

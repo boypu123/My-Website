@@ -2,7 +2,7 @@
 <h2 id="关于本人" tabindex="-1"><a class="header-anchor" href="#关于本人"><span>关于本人</span></a></h2>
 <p>本人目前在UCL的数学计算（新名为“计算机科学与数学”）专业读大一。我的主要兴趣有计算机中的数学原理、机器学习、教育系统设计等。我喜欢解决实际问题，并将想法应用到证明和编程中。在我的空闲时间，我也喜欢学习语言，探索社会话题，阅读书籍。</p>
 <h2 id="研究领域" tabindex="-1"><a class="header-anchor" href="#研究领域"><span>研究领域</span></a></h2>
-<p>机器学习中的数学基础，AI模型验证，AI安全与政策，教育系统设计中的公平性问题以及博弈论建模</p>
+<p>机器学习中的数学基础，AI模型验证，AI安全与政策，算法与伦理，教育系统设计中的公平性问题以及博弈论建模</p>
 <h2 id="出版" tabindex="-1"><a class="header-anchor" href="#出版"><span>出版</span></a></h2>
 <ul>
 <li>Pu, H. &amp; Yi, K. (2024). 《A Comparative Analysis of EfficientNet and MobileNet Models’ Performance on Limited Datasets: An Example of American Sign Language Alphabet Detection》. Highlights in Science, Engineering and Technology, 94, 558–564. DOI: 10.54097/yh5d3s04
@@ -83,6 +83,11 @@
 <li>本人主要负责协调新加坡德威在HiMCM（高中数学建模竞赛）的参与。我负责向参赛者教授了HiMCM比赛所需的数学模型，包括AHP和TOPSIS等，融入了数学建模的理论知识，确保学生理解数学模型的理论工作原理，拒绝背诵数学。</li>
 </ul>
 </li>
+</ul>
+<h2 id="下个暑假-2026-·-我的主要投入方向" tabindex="-1"><a class="header-anchor" href="#下个暑假-2026-·-我的主要投入方向"><span>下个暑假（2026） · 我的主要投入方向</span></a></h2>
+<ul>
+<li>社交媒体算法与情绪传播建模相关、社交平台推荐机制的伦理以及风险分析（使用SIR）</li>
+<li>笃行未来项目的正式注册与启动</li>
 </ul>
 </div></template>
 

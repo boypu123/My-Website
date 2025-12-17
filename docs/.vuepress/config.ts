@@ -31,7 +31,7 @@ export default defineUserConfig({
 
   head: [
     // 配置站点图标
-    ['link', { rel: 'icon', type: 'image/png', href: 'https://upload.cc/i1/2025/12/01/Y6azwR.jpg' }],
+    ['link', { rel: 'icon', type: 'image/png', href: './images/profile.jpg' }],
   ],
 
   bundler: viteBundler(),
