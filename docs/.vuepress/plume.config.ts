@@ -58,7 +58,7 @@ export default defineThemeConfig({
 
   /* 站点页脚 */
   footer: {
-    message: '浙ICP备2025219686号 | 🎵“正在被大家打扰的你，不如一起活在爱里面”——上海彩虹合唱团🎵',
+    message: '<a href="https://beian.miit.gov.cn/">浙ICP备2025219686号</a> | 🎵“正在被大家打扰的你，不如一起活在爱里面”——上海彩虹合唱团🎵',
     copyright: '本网站基于VuePress和VuePress Theme Plume构建。This website is built using VuePress and VuePress Theme Plume. 版权所有 All Rights Reserved &copy; 2025 Hongwen Pu',
   },
 
