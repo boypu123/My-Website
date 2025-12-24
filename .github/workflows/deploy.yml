@@ -30,7 +30,7 @@ jobs:
       - name: Deploy via rsync over SSH
         uses: burnett01/rsync-deployments@v8
         with:
-          switches: -avz --delete
+          switches: -avz --delete --no-perms --no-owner --no-group
           path: docs/.vuepress/dist/
           remote_path: /var/www/my-vuepress-site/dist/
           remote_host: ${{ secrets.SERVER_HOST }}
