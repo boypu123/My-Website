@@ -9,7 +9,7 @@ config:
       Year 1 Student, Mathematical Computation (Computer Science and Mathematics) @ University College London.
       Email: hongwen.pu.25@ucl.ac.uk
 
-    avatar: ./images/selfie.jpg
+    avatar: /images/selfie.jpg
 
   - 
     type: custom

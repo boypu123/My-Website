@@ -8,7 +8,7 @@ config:
       🇨🇳 浙江绍兴人，现居英国伦敦
       大一学生，现就读于UCL的数学计算（计算机科学与数学）专业
       电子邮件：hongwen.pu.25@ucl.ac.uk
-    avatar: ./images/selfie.jpg
+    avatar: /images/selfie.jpg
 
   - 
     type: custom
