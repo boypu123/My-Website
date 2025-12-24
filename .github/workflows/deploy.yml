@@ -27,13 +27,12 @@ jobs:
       - name: Build VuePress
         run: pnpm docs:build
 
-      - name: Deploy via SSH
-        uses: appleboy/scp-action@v0.1.7
+      - name: Deploy via rsync over SSH
+        uses: burnett01/rsync-deployments@v7.0.1
         with:
-          host: ${{ secrets.SERVER_HOST }}
-          username: ${{ secrets.SERVER_USER }}
-          key: ${{ secrets.SERVER_SSH_KEY }}
-          source: "docs/.vuepress/dist/*"
-          target: "/var/www/my-vuepress-site/dist"
-          strip_components: 4
-
+          switches: -avz --delete
+          path: docs/.vuepress/dist/
+          remote_path: /var/www/my-vuepress-site/dist/
+          remote_host: ${{ secrets.SERVER_HOST }}
+          remote_user: ${{ secrets.SERVER_USER }}
+          remote_key: ${{ secrets.SERVER_SSH_KEY }}
