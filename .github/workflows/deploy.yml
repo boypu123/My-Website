@@ -28,7 +28,7 @@ jobs:
         run: pnpm docs:build
 
       - name: Deploy via rsync over SSH
-        uses: burnett01/rsync-deployments@v7.0.1
+        uses: burnett01/rsync-deployments@v8
         with:
           switches: -avz --delete
           path: docs/.vuepress/dist/
