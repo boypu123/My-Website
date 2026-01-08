@@ -21,7 +21,9 @@ I am currently a first-year undergraduate at UCL in the MEng Mathematical Comput
 <a href="./files/Hongwen_Pu_CV_English.pdf" target="_blank">Download My CV</a> | <a href="./files/Hongwen_Pu_CV_Chinese.pdf" target="_blank">Download My CV (Chinese)</a> 
 
 ## Research Interests
-Mathematical foundations of machine learning, AI model verification, safety & policy, Algorithm ethics, Game-theoretic modelling of learning system and educational fairness
+Research Interests
+I am preparing for my long-term research interests in the mathematical foundations of machine learning, with a particular focus on model verification, safety, and the ethical implications of algorithms. I am also interested in applying game-theoretic modelling to learning systems, especially in the context of educational fairness and system design.
+
 
 ## Publications
  - Pu, H. & Yi, K. (2024). “A Comparative Analysis of EfficientNet and MobileNet Models’ Performance on Limited Datasets: An Example of American Sign Language Alphabet Detection.” Highlights in Science, Engineering and Technology, 94, 558–564. DOI: 10.54097/yh5d3s04
