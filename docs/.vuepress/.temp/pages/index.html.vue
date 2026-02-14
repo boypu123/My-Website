@@ -3,7 +3,8 @@
 <p>I am currently a first-year undergraduate at UCL in the MEng Mathematical Computation (new name as Computer Science and Mathematics) programme. My major interests lie in the field of mathematical foundations of computing, machine learning and educational system design. I enjoy solving problems and turning ideas into both proofs and codes. In my free time, I also like to study languages, explore societal topics and read books.<br>
 <a href="./files/Hongwen_Pu_CV_English.pdf" target="_blank">Download My CV</a> | <a href="./files/Hongwen_Pu_CV_Chinese.pdf" target="_blank">Download My CV (Chinese)</a></p>
 <h2 id="research-interests" tabindex="-1"><a class="header-anchor" href="#research-interests"><span>Research Interests</span></a></h2>
-<p>Mathematical foundations of machine learning, AI model verification, safety &amp; policy, Algorithm ethics, Game-theoretic modelling of learning system and educational fairness</p>
+<p>Research Interests
+I am preparing for my long-term research interests in the mathematical foundations of machine learning, with a particular focus on model verification, safety, and the ethical implications of algorithms. I am also interested in applying game-theoretic modelling to learning systems, especially in the context of educational fairness and system design.</p>
 <h2 id="publications" tabindex="-1"><a class="header-anchor" href="#publications"><span>Publications</span></a></h2>
 <ul>
 <li>Pu, H. &amp; Yi, K. (2024). “A Comparative Analysis of EfficientNet and MobileNet Models’ Performance on Limited Datasets: An Example of American Sign Language Alphabet Detection.” Highlights in Science, Engineering and Technology, 94, 558–564. DOI: 10.54097/yh5d3s04
