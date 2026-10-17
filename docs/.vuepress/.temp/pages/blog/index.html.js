@@ -1,4 +1,4 @@
-import comp from "/Users/jaydenpu/Documents/Code/My-Website/docs/.vuepress/.temp/pages/blog/index.html.vue"
+import comp from "D:/Code/My-Website/docs/.vuepress/.temp/pages/blog/index.html.vue"
 const data = JSON.parse("{\"path\":\"/blog/\",\"title\":\"Blog\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Blog\",\"draft\":true},\"readingTime\":{\"minutes\":0,\"words\":0},\"git\":{},\"filePathRelative\":null,\"headers\":[],\"type\":\"posts\"}")
 export { comp, data }
 
