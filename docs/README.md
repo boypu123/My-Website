@@ -6,7 +6,7 @@ config:
     name: Hongwen Pu
     description: |
       🇨🇳 From Shaoxing, Zhejiang, China. Currently based in London, United Kingdom.
-      Year 1 Student, Mathematical Computation (Computer Science and Mathematics) @ University College London.
+      Year 2 Student, Mathematical Computation (Computer Science and Mathematics) @ University College London.
       Email: hongwen.pu.25@ucl.ac.uk
 
     avatar: /images/selfie.jpg
@@ -17,7 +17,7 @@ config:
 
 ---
 ## About Me
-I am currently a first-year undergraduate at UCL in the MEng Mathematical Computation (new name as Computer Science and Mathematics) programme. My major interests lie in the field of mathematical foundations of computing, machine learning and educational system design. I enjoy solving problems and turning ideas into both proofs and codes. In my free time, I also like to study languages, explore societal topics and read books.  
+I am currently a second-year undergraduate at UCL in the MEng Mathematical Computation (new name as Computer Science and Mathematics) programme. My major interests lie in the field of mathematical foundations of computing, machine learning and educational system design. I enjoy solving problems and turning ideas into both proofs and codes. In my free time, I also like to study languages, explore societal topics and read books. I am currently investigating the role of institutional frameworks in governing and securing AI agent networks. 
 <a href="./files/Hongwen_Pu_CV_English.pdf" target="_blank">Download My CV</a> | <a href="./files/Hongwen_Pu_CV_Chinese.pdf" target="_blank">Download My CV (Chinese)</a> 
 
 ## Research Interests
@@ -31,6 +31,11 @@ I am preparing for my long-term research interests in the mathematical foundatio
    - Research Impact (as of Nov 30th, 2025): 8 citations recorded on Google Scholar, 496 publisher-page downloads within the first year of publication.
 
 ## Research Projects
+ - Systematic Review of Numerical Information Extraction from Biomedical Literature - 2026 (Ongoing)
+   - Participating in a systematic review examining how natural language processing (NLP) methods extract numerical information from biomedical literature, including drug dosages, concentrations, laboratory values, and tumour measurements.
+   - The review evaluates the robustness, safety, and sustainability of these methods, with a focus on data provenance, annotation quality, evaluation validity, and reproducibility.
+   - Working under the guidance of PhD researcher Lara Carter from UCL, contributing to the systematic review and manuscript preparation as a coauthor.
+
  - American Sign Language Spelling Recognition System + Game - 2024
    - Final project of the research project "Introduction to Machine Learning and Neural Networks", led by Professor Rogers from University of Oxford.
    - This project has used a low-code machine-learning platform, EdgeImpulse, to build a machine-learning algorithm based on MobileNet V2 96x96 0.25 that can recognise the gesture of the basic alphabet gestures of American Sign Language. We have then deployed the model on a web application and created a game to help users learn and practice the gestures.
@@ -44,10 +49,11 @@ I am preparing for my long-term research interests in the mathematical foundatio
 
 ## Education
  - University College London, United Kingdom - MEng Mathematical Computation (2025-2029)
-   - Currently: Year 1 Student
+   - Currently: Year 2 Student
+   - Key Modules Taken (or Yet to be Taken This Year): Security, Logic, Computer Architecture and Concurrency, Theory of Computation; Algebra 3: Further Linear Algebra, Probability and Statistics, Analysis 1
    - Core Modules This Year
-     - Mathematics: Analysis 1, Algebra 1, Algebra 2, Mathematical Methods 1
-     - Computer Science: Theory of Computation, Principles of Programming, Algorithms, Object-Oriented Programming
+     - Mathematics: Algebra 3: Further Linear Algebra, Computational Methods and Programming, Probability and Statistics, Mathematical Methods 2
+     - Computer Science: Logic, Security, Directed Reading, Computer Architecture and Concurrency
  - Dulwich College (Singapore), Singapore - IGCSE & IB Diploma (2021-2025). 
    - IBDP Bilingual Diploma, 41 Points
    - IB Subjects, Marks Awarded:
@@ -60,14 +66,12 @@ I am preparing for my long-term research interests in the mathematical foundatio
 
 
 ## Roles, Teachings and Outreach
- - UCLCSSA (UCL Chinese Students and Scholar Association), Department of Chinese Education, Higher Level (高级班) Teacher @ UCL, 2025 - Now
+ - UCLCSSA (UCL Chinese Students and Scholar Association), Department of Mandarin Education, Head of Department @ UCLCSSA, 2026 - now
+   - Our aim is to foster China-UK cultural exchange in UCL. We are organising and coordinating activities such as the Golden Autumn Fair collaboratively with the Department of Culture of UCLCSSA, which will be held in November at the Bloomsbury campus. Besides that, we are also discussing seminar-style activities with the Department of Academia of UCLCSSA, whose aim is to allow the UCL community to understand China from a Chinese angle in greater depth. We also monitor the teachings on a regular basis. 
+ - UCLCSSA (UCL Chinese Students and Scholar Association), Department of Mandarin Education, Higher Level (高级班) Teacher @ UCLCSSA, 2025 - 2026
    - In this course, I teach some advanced topics about Chinese Language Acquisition. In the lessons I am in charge of, I started off with some higher-level Chinese grammar and vocabulary, encouraging them to read longer, real-life passages in Chinese, along with some interactive activities encouraging them to learn about China and the Chinese culture. Then, we moved to Chinese Language and Literature, with the focus being on the book "Taipei People" (《台北人》). We explored reading and analysing Chinese literature texts and more about Chinese culture in its historical background, including the shared roots and cultural ties across the Taiwan Strait.
- - DX Future ("笃行未来") - Founder & Curriculum Designer - 2025 - Now
-   - DX Future is a project aiming at Chinese Senior School & University students to help them develop their global vision, critical thinking skills, research skills and interdisciplinary capabilities to prepare them for becoming a talent in the future world amid China's transition from talent quantity to talent strength. I am the founder of this project. I am in charge of designing the course's overall architecture, and is focusing on developing the "General Knowledge" module in the curriculum. 
+ <!-- - DX Future ("笃行未来") - Founder & Curriculum Designer - 2025 - Now
+   - DX Future is a project aiming at Chinese Senior School & University students to help them develop their global vision, critical thinking skills, research skills and interdisciplinary capabilities to prepare them for becoming a talent in the future world amid China's transition from talent quantity to talent strength. I am the founder of this project. I am in charge of designing the course's overall architecture, and is focusing on developing the "General Knowledge" module in the curriculum.  -->
  - Dulwich College (Singapore) - HiMCM Coordinator and Mathematical Modelling Teaching Lead - 2024
    - In this course, I am in charge of coordinating the participation of HiMCM (The High School Mathematical Contests for Modelling) in DCSG. I have taught several techniques required for HiMCM such as AHP and TOPSIS, trying to stimulate their interest in Mathematical Modelling and Applied Mathematics, incorporating the teaching in understanding the underlying principles of how those models work, instead of simply teaching the models and let the students memorise.
 
-
-## This coming summer (2026), my main focus will be on:
- - Modelling emotional dynamics of social media platforms, analysing the ethical impact of social algorithms and risk analysis (Using SIR)
- - The formal registration and start of DX Future
