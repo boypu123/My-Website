@@ -7,7 +7,7 @@ config:
     description: |
       🇨🇳 From Shaoxing, Zhejiang, China. Currently based in London, United Kingdom.
       Year 2 Student, Mathematical Computation (Computer Science and Mathematics) @ University College London.
-      Email: hongwen.pu.25@ucl.ac.uk WeChat: jaydenpu
+      Email: hongwen.pu.25@ucl.ac.uk WeChat: jaydenphw
 
     avatar: /images/selfie.jpg
 
